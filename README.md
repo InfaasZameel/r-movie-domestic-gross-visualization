@@ -1,4 +1,4 @@
-# r-movie-domestic-gross-visualization
+# R-movie-domestic-gross-visualization
 movie-gross-analysis-r
 # 🎬 Movie Domestic Gross % by Genre — R Visualization
 
@@ -29,7 +29,7 @@ The visualization is a **bubble chart** that shows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/r-movie-domestic-gross-viz.git
+   https://github.com/InfaasZameel/r-movie-domestic-gross-visualization.git
    ```
 2. Open `movie_gross.R` in RStudio
 3. Install dependencies if needed:
@@ -39,5 +39,5 @@ The visualization is a **bubble chart** that shows:
 4. Run the script — the chart will be generated.
 
 ## 📷 Output Preview
+<img width="1478" height="708" alt="Rplot" src="https://github.com/user-attachments/assets/eb7deb0e-b21e-477a-9a3e-fd7b97f137c5" />
 
-*(Add a screenshot of your chart here)*
